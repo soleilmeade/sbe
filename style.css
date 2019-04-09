@@ -1,0 +1,13 @@
+.header-container{
+  background-image:url(images/CAROUSEL-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 512px;
+  position: relative;
+  width: 1200;
+}
+.featurette-divider{
+  background color:#fe7d40;
+}
